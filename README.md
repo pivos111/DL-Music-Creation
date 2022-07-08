@@ -22,15 +22,15 @@ https://drive.google.com/uc?id=1EmCZQvc5Yqtz4y8TO5Ms_JpzDT6WRPEO
 Genre labels: msd_tagtraum_cd1.cls: 
 https://www.tagtraum.com/msd_genre_datasets.html
 
-The File system should look like this:
-ProjectMusic
-|->Lakh Piano Dataset
-| |->Genre/msd_tagtraum_cd1.cls
-| |->Metadata/lmd_matched_h5
-| |->LPD-5/lpd_5/lpd_5_cleansed
-| |->cleansed_ids.txt
-|
-|->Music Dataset/midis/lmd_matched
+The File system should look like this: <br />
+ProjectMusic <br />
+|->Lakh Piano Dataset <br />
+| |->Genre/msd_tagtraum_cd1.cls <br />
+| |->Metadata/lmd_matched_h5 <br />
+| |->LPD-5/lpd_5/lpd_5_cleansed <br />
+| |->cleansed_ids.txt <br />
+| <br />
+|->Music Dataset/midis/lmd_matched <br />
 
 # Notebooks
 
