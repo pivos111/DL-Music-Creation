@@ -1,6 +1,4 @@
 # DL-Music-Creation
-
-# Music Creation
 Generating Music using Deep Learning
 
 Project by Konstantinos Skourogiannis and Iraklis Pallikaris
